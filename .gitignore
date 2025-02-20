@@ -1,0 +1,12 @@
+.vs/
+*.vsidx
+*.suo
+*.user
+*.cache
+*.log
+Library/
+Temp/
+Build/
+obj/
+bin/
+.DS_Store
